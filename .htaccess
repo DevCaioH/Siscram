@@ -1,0 +1,2 @@
+Redirect 302 /errors/404/ http://siscrasistem.infinityfreeapp.com/404.php
+Redirect 302 /https://errors.infinityfree.net/errors/404/ http://siscrasistem.infinityfreeapp.com/404.php
